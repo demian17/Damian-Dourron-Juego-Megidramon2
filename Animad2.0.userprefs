@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Animad2.0/Game1.cs">
+    <Files>
+      <File FileName="Animad2.0/Program.cs" Line="1" Column="1" />
+      <File FileName="Animad2.0/Game1.cs" Line="376" Column="20" />
+      <File FileName="Animad2.0/Animation.cs" Line="1" Column="1" />
+      <File FileName="Animad2.0/bullets.cs" Line="1" Column="1" />
+      <File FileName="Animad2.0/buttonpause.cs" Line="1" Column="1" />
+      <File FileName="Animad2.0/FONDO.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
